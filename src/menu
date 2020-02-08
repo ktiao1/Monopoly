@@ -1,0 +1,7 @@
+# This file will be used for the menu when game starts up 
+import pygame 
+import sys
+import random
+
+class Menu:
+    
